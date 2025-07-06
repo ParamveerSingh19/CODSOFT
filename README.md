@@ -38,7 +38,6 @@ Here’s a snapshot of the design:
 🔗 Figma Link
 https://www.figma.com/design/1ca95URrjuIRnmNVpe78lR/Mobile-App-Sign-Up-Flow?node-id=0-1&t=Pb9aRUVxgEZHqKuT-1
 
-(Replace with your public Figma link)
 
 📂 How to Use
 
