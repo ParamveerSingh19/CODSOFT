@@ -2,11 +2,11 @@
 
 A clean, secure mobile signup flow focused on simplicity, personalization, and ease of use. Includes email/password input, social login options, and error handling—ideal for fast, user-friendly onboarding.
 
-📱 Mobile App Sign-Up Flow (Figma Design)
+## 📱 Mobile App Sign-Up Flow (Figma Design)
 
 Welcome to the **Mobile App Sign-Up Flow** UI project designed on **Figma**. This flow demonstrates a clean, modern, and user-friendly sign-up/login experience, ideal for any mobile application startup or tech product.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This UI/UX design includes:
 - Welcome screen
@@ -17,39 +17,43 @@ This UI/UX design includes:
 - Terms & Privacy policy acknowledgment
 - Smooth **interactive prototype** for better understanding
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 - 🎨 **Figma** – for UI/UX design
 - 🔗 **Figma Prototype** – to visualize user interaction flow
 
-🖼️ Preview
+## 🖼️ Preview
 
 Here’s a snapshot of the design:
 > View the full prototype on Figma (add link if shared)
 ![Mobile-App-Sign-Up-Flow](https://github.com/user-attachments/assets/6af2dbfb-22b1-474e-b593-5c1238caca5d)
 
 
-🧠 Features
+## 🧠 Features
 
 - Clean and minimal interface
 - Responsive layout for mobile view
 - Multiple sign-up/login options
 - User-focused flow with modern visual hierarchy
 
-🔗 Figma Link
+## 🔗 Figma Link
 https://www.figma.com/design/1ca95URrjuIRnmNVpe78lR/Mobile-App-Sign-Up-Flow?node-id=0-1&t=Wo0Fx5AlO35DdL8F-1
 
-📂 How to Use
+## 📂 How to Use
 
 1. Clone or download this repo
 2. Open the PDF file for static views: 'Mobile-App-Sign-Up-Flow'
 3. Visit the Figma link for prototype interaction
 
-💬 Feedback
+## 💬 Feedback
 
 Open to suggestions or collaboration! Feel free to fork or raise issues.
 
-📄 License
+## 👨‍💻 Author
+
+Made by [Paramveer Singh](https://github.com/ParamveerSingh19)
+
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
