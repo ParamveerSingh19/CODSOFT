@@ -25,6 +25,7 @@ This UI/UX design includes:
 ## 🖼️ Preview
 
 Here’s a snapshot of the design:
+
 ![Mobile-App-Sign-Up-Flow](https://github.com/user-attachments/assets/6af2dbfb-22b1-474e-b593-5c1238caca5d)
 
 
