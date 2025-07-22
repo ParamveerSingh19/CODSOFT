@@ -51,6 +51,6 @@ Open to suggestions or collaboration! Feel free to fork or raise issues.
 
 📄 License
 
-This project is licensed under the MIT License – feel free to use and adapt it!
+This project is licensed under the [MIT License](LICENSE).
 
 
