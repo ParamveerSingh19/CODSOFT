@@ -1,4 +1,4 @@
-# CodeCraft
+# 📲 CodeCraft
 
 A clean, secure mobile signup flow focused on simplicity, personalization, and ease of use. Includes email/password input, social login options, and error handling—ideal for fast, user-friendly onboarding.
 
@@ -37,6 +37,7 @@ Here’s a snapshot of the design:
 - User-focused flow with modern visual hierarchy
 
 ## 🔗 Figma Link
+
 https://www.figma.com/design/1ca95URrjuIRnmNVpe78lR/Mobile-App-Sign-Up-Flow?node-id=0-1&t=Wo0Fx5AlO35DdL8F-1
 
 ## 📂 How to Use
