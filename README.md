@@ -2,13 +2,10 @@
 
 A clean, secure mobile signup flow focused on simplicity, personalization, and ease of use. Includes email/password input, social login options, and error handling—ideal for fast, user-friendly onboarding.
 
-## 📱 Mobile App Sign-Up Flow (Figma Design)
-
-Welcome to the **Mobile App Sign-Up Flow** UI project designed on **Figma**. This flow demonstrates a clean, modern, and user-friendly sign-up/login experience, ideal for any mobile application startup or tech product.
-
 ## 📌 Project Overview
 
 This UI/UX design includes:
+
 - Welcome screen
 - Sign-up options (Email, Google, GitHub)
 - Email registration form
